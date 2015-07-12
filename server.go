@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/hypebeast/go-osc/osc"
 	"fmt"
+	"github.com/hypebeast/go-osc/osc"
 	"time"
 )
 
